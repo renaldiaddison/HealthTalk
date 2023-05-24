@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.getstream:avatarview:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bb2a84c7cdba5a308982a23484a36970/transformed/avatarview-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bb2a84c7cdba5a308982a23484a36970/transformed/avatarview-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bb2a84c7cdba5a308982a23484a36970/transformed/avatarview-1.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/avatarview/1.0.7/3a195659619a1806242eb812cea324face145d07/avatarview-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/avatarview/1.0.7/d1efeb6b0499e2cd060071443ed2856610f629a5/avatarview-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

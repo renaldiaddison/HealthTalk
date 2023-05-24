@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.getstream:avatarview-coil:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d34dc5bbd44bb629780f5ca5dd62bfb5/transformed/avatarview-coil-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d34dc5bbd44bb629780f5ca5dd62bfb5/transformed/avatarview-coil-1.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/avatarview-coil/1.0.7/e29c3b1d003a3f90c3f22eeaa7e203d47f95a772/avatarview-coil-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/avatarview-coil/1.0.7/bedbfd0716414e43fb6ec301f4fb16dd0673ea76/avatarview-coil-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

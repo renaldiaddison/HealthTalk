@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.beeptalk">
+    package="com.example.healthtalk">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -24,58 +24,58 @@
             android:resource="@color/primaryColor" />
 
         <activity
-            android:name=".pages.EditCommentPage"
+            android:name="com.example.healthtalk.pages.EditCommentPage"
             android:exported="false" />
         <activity
-            android:name=".pages.SingleVideoPage"
+            android:name="com.example.healthtalk.pages.SingleVideoPage"
             android:exported="false" />
         <activity
-            android:name=".pages.PostCommentPage"
+            android:name="com.example.healthtalk.pages.PostCommentPage"
             android:exported="false" />
         <activity
-            android:name=".pages.ChangePasswordPage"
+            android:name="com.example.healthtalk.pages.ChangePasswordPage"
             android:exported="false" />
         <activity
-            android:name=".pages.RecentFollowersPage"
+            android:name="com.example.healthtalk.pages.RecentFollowersPage"
             android:exported="false" />
         <activity
-            android:name=".pages.UpdatePasswordPage"
+            android:name="com.example.healthtalk.pages.UpdatePasswordPage"
             android:exported="false" />
         <activity
-            android:name=".pages.VerifyOTPForgotPasswordPage"
+            android:name="com.example.healthtalk.pages.VerifyOTPForgotPasswordPage"
             android:exported="false" />
         <activity
-            android:name=".pages.EditProfilePage"
+            android:name="com.example.healthtalk.pages.EditProfilePage"
             android:exported="false" />
         <activity
-            android:name=".pages.EditThreadPage"
+            android:name="com.example.healthtalk.pages.EditThreadPage"
             android:exported="false" />
         <activity
-            android:name=".pages.ProfilePage"
+            android:name="com.example.healthtalk.pages.ProfilePage"
             android:exported="false" />
         <activity
-            android:name=".pages.ForgotPasswordPage"
+            android:name="com.example.healthtalk.pages.ForgotPasswordPage"
             android:exported="false" />
         <activity
-            android:name=".pages.MainPage"
+            android:name="com.example.healthtalk.pages.MainPage"
             android:exported="false" />
         <activity
-            android:name=".pages.CommentDetailPage"
+            android:name="com.example.healthtalk.pages.CommentDetailPage"
             android:exported="false" />
         <activity
-            android:name=".pages.ThreadDetailPage"
+            android:name="com.example.healthtalk.pages.ThreadDetailPage"
             android:exported="false" />
         <activity
-            android:name=".pages.CreateThreadPage"
+            android:name="com.example.healthtalk.pages.CreateThreadPage"
             android:exported="false" />
         <activity
-            android:name=".pages.ThreadPage"
+            android:name="com.example.healthtalk.pages.ThreadPage"
             android:exported="false" />
         <activity
-            android:name=".pages.RegisterPage"
+            android:name="com.example.healthtalk.pages.RegisterPage"
             android:exported="false" />
         <activity
-            android:name=".pages.LoginPage"
+            android:name="com.example.healthtalk.pages.LoginPage"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -85,7 +85,7 @@
         </activity>
 
         <service
-            android:name=".MyFirebaseMessagingService"
+            android:name="com.example.healthtalk.MyFirebaseMessagingService"
             android:exported="false"
             tools:ignore="Instantiatable">
             <intent-filter>
