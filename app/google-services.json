@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932354969681",
+    "project_id": "beeptalk-35de8",
+    "storage_bucket": "beeptalk-35de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932354969681:android:34d83766ced6d90eaf2870",
+        "android_client_info": {
+          "package_name": "com.example.beeptalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932354969681-89b8ig4at81eah3oc2s5iquvdtkauu7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beeptalk",
+            "certificate_hash": "eca2c7019ea72eab7997b9c02c7a0e9359ac93a6"
+          }
+        },
+        {
+          "client_id": "932354969681-gd0afesg1a95qp1k612vf73t7hapaspo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beeptalk",
+            "certificate_hash": "49428c70b010ed239cd805179da9b80f188d8c3c"
+          }
+        },
+        {
+          "client_id": "932354969681-gigubvfd5huitrcctmrekv2fe1ic2eff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0pIQkHtsNSGuwXJfVUCc0t9H9-xqMSEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932354969681-gigubvfd5huitrcctmrekv2fe1ic2eff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

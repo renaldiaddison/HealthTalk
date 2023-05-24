@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/prof_changePassword"  android:title="@string/change_password"/>
+    <item android:id="@+id/prof_recFol"  android:title="@string/recent_follower"/>
+    <item android:id="@+id/prof_logOut"  android:title="@string/log_out"/>
+</menu>

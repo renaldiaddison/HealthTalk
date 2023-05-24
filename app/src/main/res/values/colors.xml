@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#334257</color>
+    <color name="primaryLightColor">#5e6d84</color>
+    <color name="primaryDarkColor">#0a1c2e</color>
+    <color name="primaryContent">#548CA8</color>
+    <color name="secondaryColor">#476072</color>
+    <color name="secondaryLightColor">#748da1</color>
+    <color name="secondaryDarkColor">#1c3647</color>
+    <color name="primaryTextColor">#eeeeee</color>
+    <color name="secondaryTextColor">#eeeeee</color>
+    <color name="icon_unselected">#828282</color>
+    <color name="white">#FFFFFF</color>
+</resources>
+
+    <!--    https://m2.material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=334257&primary.text.color=EEEEEE&secondary.color=476072&secondary.text.color=ffffff-->

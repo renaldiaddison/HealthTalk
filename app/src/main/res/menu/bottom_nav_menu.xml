@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home" android:icon="@drawable/home_icon" android:title="@string/home"/>
+    <item android:id="@+id/nav_thread" android:icon="@drawable/thread_icon" android:title="@string/thread"/>
+    <item android:id="@+id/nav_add" android:icon="@drawable/add_icon" android:title="@string/add"/>
+    <item android:id="@+id/nav_notification" android:icon="@drawable/notification_icon" android:title="@string/notification"/>
+    <item android:id="@+id/nav_profile" android:icon="@drawable/person_icon" android:title="@string/profile"/>
+</menu>
